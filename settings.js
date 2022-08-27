@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.autobio = true 
 global.userRegister = true 
 
@@ -25,7 +25,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
+global.botname = "Elaina-Chan" //namabot kalian
 global.ownername= "ᴹᴿ᭄ RyHar Storcོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://m.youtube.com/channel/UCx31jLVlVevqLv9o0e1yeUA" //bebas asal jan hapus
@@ -40,7 +40,7 @@ global.ownernomerr = "+6282182461800" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
+global.packname = '© Elaina-Chan' //sticker wm ubah
 global.author = 'Di Buat Oleh RyHar' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
